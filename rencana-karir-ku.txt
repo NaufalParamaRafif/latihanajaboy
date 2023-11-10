@@ -1,6 +1,13 @@
 Kedepannya saya ingin menjadi:
 -Menjadi Backend Developer
   *Javascript
+   Framework:
+    -Node JS
+    -Express JS
   *PHP
+
 -Menjadi Machine Learning Engineer
   *Python
+   Framework:
+    -TensorFlow
+    -NumPY

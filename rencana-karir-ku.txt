@@ -1,6 +1,10 @@
 Kedepannya saya ingin menjadi:
+
 -Menjadi Backend Developer
-  *Javascript
   *PHP
+   Framework:
+    -Laravel
 -Menjadi Machine Learning Engineer
   *Python
+   Framework:
+   scikit-learn
